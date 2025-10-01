@@ -2,7 +2,7 @@
 * Problem 1: Escape Room
 *
 * V2.3 – visible traps, -10 on trap, detrap (adjacent), timer, powerups (double coins for N steps),
-*         and unique placement for items handled in GameGUI. 
+*         and unique placement for items handled in GameGUI.
 */
 public class EscapeRoom
 {
